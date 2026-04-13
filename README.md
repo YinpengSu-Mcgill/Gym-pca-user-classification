@@ -58,31 +58,6 @@ The goal of this project is to classify gym users into three experience levels (
 ### Confusion Matrix
 <img width="871" height="593" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
 
-
----
-
-## 📁 Project Structure
-gym-pca-user-classification/
-│
-├── notebooks/
-│ └── gym_pca_classification.ipynb
-│
-├── data/
-│ └── gym_members_exercise_tracking.csv
-│
-├── reports/
-│ └── final_report.pdf
-│
-├── images/
-│ ├── pca_plot.png
-│ ├── model_comparison.png
-│ └── confusion_matrix.png
-│
-├── requirements.txt
-
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository:git clone https://github.com/yourusername/gym-pca-user-classification.git
@@ -102,5 +77,4 @@ gym-pca-user-classification/
 ---
 
 ## 📌 Author
-
 Yinpeng Su  
