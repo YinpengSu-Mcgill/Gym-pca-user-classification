@@ -58,12 +58,6 @@ The goal of this project is to classify gym users into three experience levels (
 ### Confusion Matrix
 <img width="871" height="593" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
 
-## ▶️ How to Run
-
-1. Clone the repository:git clone https://github.com/yourusername/gym-pca-user-classification.git
-2. Install dependencies:pip install -r requirements.txt
-3. Open the notebook:jupyter notebook notebooks/gym_pca_classification.ipynb
-
 ---
 
 ## 🛠️ Tools & Technologies
