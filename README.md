@@ -48,13 +48,16 @@ The goal of this project is to classify gym users into three experience levels (
 ## 🖼️ Visualizations
 
 ### PCA Projection
-![PCA Plot](images/pca_plot.png)
+<img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/6c1624a1-5bdf-44ef-8452-787209f5bc15" />
+
 
 ### Model Performance Comparison
-![Model Comparison](images/model_comparison.png)
+<img width="982" height="622" alt="image" src="https://github.com/user-attachments/assets/48556999-0110-4b4b-a1b2-3fea07a515bc" />
+
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="871" height="593" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
+
 
 ---
 
