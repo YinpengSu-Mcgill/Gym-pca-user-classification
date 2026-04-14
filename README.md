@@ -52,7 +52,7 @@ The objective is to identify key behavioral and physiological factors that influ
 ## 🖼️ Visualizations
 
 ### PCA Projection
-<img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/6c1624a1-5bdf-44ef-8452-787209f5bc15" />
+<img width="626" height="481" alt="image" src="https://github.com/user-attachments/assets/16a08fc0-a439-42e5-961b-1ad53fe7217d" />
 
 ### Model Performance Comparison
 <img width="982" height="622" alt="image" src="https://github.com/user-attachments/assets/48556999-0110-4b4b-a1b2-3fea07a515bc" />
