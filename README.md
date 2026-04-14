@@ -51,14 +51,18 @@ The objective is to identify key behavioral and physiological factors that influ
 
 ## 🖼️ Visualizations
 
-### PCA Projection
+### PCA Projection (PC1 vs PC2, colored by Experience Level)
+Visualizing user distribution after dimensionality reduction using PCA.
 <img width="626" height="481" alt="image" src="https://github.com/user-attachments/assets/16a08fc0-a439-42e5-961b-1ad53fe7217d" />
 
 ### Model Performance Comparison
+Comparison of multiple classification models, highlighting Random Forest as the best-performing model.
 <img width="982" height="622" alt="image" src="https://github.com/user-attachments/assets/48556999-0110-4b4b-a1b2-3fea07a515bc" />
 
 ### Confusion Matrix
-<img width="871" height="593" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
+Evaluation of classification performance for the Random Forest model.
+Beginner / Intermediate / Expert
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
 
 ---
 
