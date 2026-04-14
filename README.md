@@ -3,6 +3,8 @@
 A machine learning and statistical analysis project on gym member behavioral data.  
 This project applies Principal Component Analysis (PCA) and classification models to predict user experience levels and identify key behavioral patterns.
 
+Full Report: https://colab.research.google.com/drive/1f3NLEIVJn4UAgy3iPLlSeW_szOom_N5o?usp=sharing
+
 ---
 
 ## 📊 Project Highlights
