@@ -1,26 +1,28 @@
 # PCA-Based User Classification Analysis
 
-A machine learning and statistical analysis project on gym member behavioral data.  
-This project applies Principal Component Analysis (PCA) and classification models to predict user experience levels and identify key behavioral patterns.
-
-Full Report: https://colab.research.google.com/drive/1f3NLEIVJn4UAgy3iPLlSeW_szOom_N5o?usp=sharing
-
----
-
-## 📊 Project Highlights
-
-- Dataset: 973 gym members with 5 key features  
-- Applied PCA to reduce dimensionality to 3 components  
-- Explained 92.7% of total variance  
-- Built multiple classification models using PyCaret  
-- Best model: Random Forest  
-- Achieved 79.6% accuracy and 0.775 F1-score  
+⭐ End-to-end data analysis project using PCA and machine learning  
+📊 Dataset: 973 users | 5 features  
+📉 PCA: 92.7% variance explained  
+🤖 Model: Random Forest  
+🚀 Result: 79.6% accuracy | F1-score: 0.775  
 
 ---
 
-## 🧠 Problem Statement
+## 🔗 Project Demo
 
-The goal of this project is to classify gym users into three experience levels (Beginner, Intermediate, Expert) based on physiological and behavioral features, and to understand the key factors influencing user progression.
+👉 Full Notebook (Google Colab):  
+https://colab.research.google.com/drive/1f3NLEIVJn4UAgy3iPLlSeW_szOom_N5o?usp=sharing  
+
+👉 Full Report (PDF):  
+See `reports/final_report.pdf`
+
+---
+
+## 📊 Project Overview
+
+This project applies Principal Component Analysis (PCA) and machine learning models to classify gym users into three experience levels (Beginner, Intermediate, Expert).  
+
+The objective is to identify key behavioral and physiological factors that influence user progression and performance.
 
 ---
 
@@ -31,7 +33,7 @@ The goal of this project is to classify gym users into three experience levels (
 - Principal Component Analysis (PCA)  
 - Model comparison using PyCaret  
 - Hyperparameter tuning (Random Forest)  
-- Visualization of feature relationships and classification results  
+- Visualization and model interpretation  
 
 ---
 
@@ -41,9 +43,9 @@ The goal of this project is to classify gym users into three experience levels (
   - Lower body fat percentage  
   - Longer training session duration  
 
-- PCA successfully reduced dimensionality while preserving most information  
+- PCA reduced dimensionality while preserving 92.7% of total information  
 
-- Expert users are more separable, while Beginner and Intermediate show overlap  
+- Expert users show clearer separation, while Beginner and Intermediate overlap  
 
 ---
 
@@ -52,10 +54,8 @@ The goal of this project is to classify gym users into three experience levels (
 ### PCA Projection
 <img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/6c1624a1-5bdf-44ef-8452-787209f5bc15" />
 
-
 ### Model Performance Comparison
 <img width="982" height="622" alt="image" src="https://github.com/user-attachments/assets/48556999-0110-4b4b-a1b2-3fea07a515bc" />
-
 
 ### Confusion Matrix
 <img width="871" height="593" alt="image" src="https://github.com/user-attachments/assets/c02b8418-d1a2-4cfa-8ba5-c6853d6e3ffb" />
@@ -73,4 +73,5 @@ The goal of this project is to classify gym users into three experience levels (
 ---
 
 ## 📌 Author
+
 Yinpeng Su  
